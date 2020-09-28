@@ -83,7 +83,7 @@ ul {
 }
 
 #header h1 {
-  font-size: 4rem;
+  font-size: 3rem;
   color: #fff;
   font-weight: 700;
 }
@@ -668,6 +668,12 @@ ul {
     font-size: 6rem;
   }
 
+  /* -- Header Sect -- */
+
+  #header h1 {
+    font-size: 4rem;
+  }
+
   /* -- Hero Sect -- */
 
   #hero h1 {
@@ -776,6 +782,12 @@ ul {
   #serv .serv-card-item {
     flex-basis: 22%;
     margin: 1.5%;
+  }
+
+  /* -- Header Sect -- */
+
+  #header h1 {
+    font-size: 4rem;
   }
 
   #header .menu {
